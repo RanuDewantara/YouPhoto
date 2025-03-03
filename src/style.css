@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+@font-face {
+	font-family: "Oxanium";
+	src: url('../src/assets/font/Oxanium-VariableFont_wght.ttf');
+}
+@font-face {
+	font-family: "Tektur";
+	src: url('../src/assets/font/Tektur.ttf');
+}
+@font-face {
+	font-family: "Ubuntu";
+	src: url('../src/assets/font/UbuntuMono-Regular.ttf');
+}
+@font-face {
+	font-family: "Orbitron";
+	src: url('../src/assets/font/Orbitron-VariableFont_wght.ttf')
+}
+@font-face {
+	font-family: "ProstoOne";
+	src: url('../src/assets/font/ProstoOne-Regular.ttf')
+}
