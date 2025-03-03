@@ -1,5 +1,5 @@
 <template>
-	<div id="services" class="bg-linear-to-b/oklch from-neutral-950 to-teal-950 py-16">
+	<div id="services" class="bg-linear-to-b/oklch from-neutral-950 to-teal-950 pt-16 pb-32">
 		<h1 class="font-['Oxanium'] font-semibold text-4xl text-center text-white mt-5 mb-20">Our Services</h1>
 		<div class="max-w-7xl mx-auto grid grid-cols-1 px-5 justify-around gap-5 font-['Oxanium'] md:grid-cols-2 lg:grid-cols-3 lg:px-20">
 			<div class="max-w-md h-72 mx-auto bg-transparent shadow-md shadow-white border-2 p-5 rounded-lg text-white text-justify overflow-hidden">

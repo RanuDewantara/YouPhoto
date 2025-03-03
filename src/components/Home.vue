@@ -6,12 +6,12 @@
 			<h2 class="font-semibold text-2xl">The event photographer and videographer</h2>
 <!--			<h4 class="font-semibold text-lg">Based on <span class="font-bold text-red-500">Svalbard</span></h4>-->
 		
-			<ul class="flex text-xl  font-['Orbitron'] max-w-sm space-x-5 mt-10 font-semibold">
+			<ul class="flex text-xl justify-evenly font-['Orbitron'] max-w-sm space-x-5 mt-10 font-semibold md:justify-start">
 				<li class="w-36 py-1 text-sky-500 text-center bg-transparent ring-2 ring-sky-500 hover:text-white hover:bg-sky-500 active:bg-sky-900 rounded-lg">
-					<a href="services">Services</a>
+					<a href="#services">Services</a>
 				</li>
 				<li class="w-36 py-1 text-sky-500 text-center bg-transparent ring-2 ring-sky-500 hover:text-white hover:bg-sky-500 active:bg-sky-900 rounded-lg">
-					<a href="contact">Contact Me</a>
+					<a href="#contact">Contact Me</a>
 				</li>
 			</ul>
 		</div>

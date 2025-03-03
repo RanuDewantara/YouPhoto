@@ -17,18 +17,7 @@
 					<h2 class="font-normal text-base">+353 21 143 7865</h2>
 				</div>
 			</div>
-			<form class="space-y-4">
-				<input type='text' placeholder='ex: Robert Arok'
-				       class="w-full p-4 bg-gray-100 border text-black text-sm outline-none transition-all" />
-				<input type='email' placeholder='ex: user@email.com'
-				       class="w-full p-4 bg-gray-100 border text-black text-sm outline-none transition-all" />
-				<input type='text' placeholder='Subject'
-				       class="w-full p-4 bg-gray-100 border text-black text-sm outline-none transition-all" />
-				<textarea placeholder='Message' rows="4"
-				          class="w-full px-4 bg-gray-100 border text-black text-sm pt-3 outline-none transition-all"></textarea>
-				<button type='button'
-				        class="text-white bg-black hover:bg-gray-900 tracking-wide text-sm px-4 py-2.5 w-full outline-none">Send Message</button>
-			</form>
+			<iframe class="h-full w-full rounded-lg" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2463.4207083142255!2d-8.499203099999999!3d51.871532599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48448fcdc59e5fc7%3A0x2787f3cadd823507!2s90%20Sandown%20Crest%2C%20Lehenagh%20Beg%2C%20Cork%2C%20Ireland!5e0!3m2!1sen!2sid!4v1740986505981!5m2!1sen!2sid" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</div>
 </template>

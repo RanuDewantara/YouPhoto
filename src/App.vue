@@ -6,6 +6,12 @@ import Services from "./components/Services.vue";
 import Portfolio from "./components/Portfolio.vue";
 import Footer from "./components/Footer.vue";
 import Contact from "./components/Contact.vue";
+
+import { onMounted } from 'vue'
+import { initFlowbite } from 'flowbite'
+onMounted(() => {
+	initFlowbite();
+})
 </script>
 
 <template>
